@@ -85,8 +85,8 @@ End-to-end pipeline predicting crop yield from soil, climate and fertilizer data
 ## GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haaaarssssh&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=haaaarssssh&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haaaarssssh&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=haaaarssssh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haaaarssssh&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
