@@ -8,6 +8,8 @@ Full Stack Developer working across machine learning, computer vision and SaaS i
 <img src="assets/plane.svg" width="14" /> &nbsp;Open to full-time roles in ML / Full Stack Development, and to relocate<br>
 <img src="assets/globe.svg" width="14" /> &nbsp;Founder & Editor-in-Chief, <a href="https://theclueless.me">The Clueless</a>
 
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/haaaarssssh/haaaarssssh/raw/main/Harsh_Patil_Resume.pdf)
+
 ---
 
 ## Tech Stack
@@ -74,6 +76,7 @@ End-to-end pipeline predicting crop yield from soil, climate and fertilizer data
 
 ## Contact
 
+[![Resume](https://img.shields.io/badge/Resume-PDF-0A66C2?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/haaaarssssh/haaaarssssh/raw/main/Harsh_Patil_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshpatil2402)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haaaarssssh@gmail.com)
 [![The Clueless](https://img.shields.io/badge/Play-The_Clueless-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://theclueless.me)
