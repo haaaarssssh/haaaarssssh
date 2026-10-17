@@ -5,7 +5,7 @@ Full Stack Developer working across machine learning, computer vision and SaaS i
 <img src="assets/education.svg" width="14" /> &nbsp;B.S. in Data Science and Applications, Indian Institute of Technology Madras (2026)<br>
 <img src="assets/briefcase.svg" width="14" /> &nbsp;Full Stack Developer at Pariman<br>
 <img src="assets/location.svg" width="14" /> &nbsp;Jalgaon, Maharashtra, India<br>
-<img src="assets/plane.svg" width="14" /> &nbsp;Open to relocate<br>
+<img src="assets/plane.svg" width="14" /> &nbsp;Open to full-time roles in ML / Full Stack Development, and to relocate<br>
 <img src="assets/globe.svg" width="14" /> &nbsp;Founder & Editor-in-Chief, <a href="https://theclueless.me">The Clueless</a>
 
 ---
