@@ -6,7 +6,7 @@ Full Stack Developer working across machine learning, computer vision and SaaS i
 <img src="assets/briefcase.svg" width="14" /> &nbsp;Full Stack Developer at Pariman<br>
 <img src="assets/location.svg" width="14" /> &nbsp;Jalgaon, Maharashtra, India<br>
 <img src="assets/plane.svg" width="14" /> &nbsp;Open to relocate<br>
-<img src="assets/globe.svg" width="14" /> &nbsp;<a href="https://theclueless.me">theclueless.me</a>
+<img src="assets/globe.svg" width="14" /> &nbsp;Creator of <a href="https://theclueless.me">The Clueless</a>, a crossword game
 
 ---
 
@@ -43,6 +43,10 @@ Full Stack Developer working across machine learning, computer vision and SaaS i
 
 ## Selected Projects
 
+### [The Clueless](https://theclueless.me)
+A crossword game I designed and built, live at [theclueless.me](https://theclueless.me).
+
+
 ### [Multi-Tenant Solar CRM & Document Automation SaaS](https://github.com/haaaarssssh/Solar_docs_gen)
 Multi-tenant SaaS for solar agencies to manage clients and generate documents. Replaced Playwright with WeasyPrint to reduce RAM usage by 70%. Zero-downtime deployments through Docker and GitHub Actions on DigitalOcean, fronted by Cloudflare.
 **Stack:** Flask, Supabase, Docker, GitHub Actions, DigitalOcean
@@ -72,7 +76,7 @@ End-to-end pipeline predicting crop yield from soil, climate and fertilizer data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshpatil2402)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haaaarssssh@gmail.com)
-[![Website](https://img.shields.io/badge/Website-theclueless.me-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://theclueless.me)
+[![The Clueless](https://img.shields.io/badge/Play-The_Clueless-24292F?style=flat-square&logo=googlechrome&logoColor=white)](https://theclueless.me)
 [![GitHub](https://img.shields.io/badge/GitHub-haaaarssssh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haaaarssssh)
 
 ---
