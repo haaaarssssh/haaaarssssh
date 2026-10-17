@@ -2,7 +2,7 @@
 
 🎓 B.S. in Data Science and Applications | Indian Institute of Technology Madras (2026)
 🌟 Full Stack Developer | ML & Computer Vision | SaaS & DevOps
-📍 Jalgaon, Maharashtra · 🌐 [theclueless.me](https://theclueless.me)
+📍 Jalgaon, Maharashtra · ✈️ Open to relocate · 🌐 [theclueless.me](https://theclueless.me)
 
 ---
 
